@@ -1,5 +1,7 @@
 # Auth0 Next.js SDK Sample Application
 
+Demo based on - [Auth0 in 100 Seconds // And beyond with a Next.js Authentication Tutorial](https://www.youtube.com/watch?v=yufqeJLP1rI) (Fireship)
+
 This sample demonstrates the integration of [Auth0 Next.js SDK](https://github.com/auth0/nextjs-auth0) into a Next.js application created using [create-next-app](https://nextjs.org/docs/api-reference/create-next-app). The sample is a companion to the [Auth0 Next.js SDK Quickstart](https://auth0.com/docs/quickstart/webapp/nextjs).
 
 This sample demonstrates the following use cases:
